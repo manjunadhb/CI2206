@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>This is Continuous Integration, really interesting.</h1>
+      <h1>We have corrected the issue, it should work now.</h1>
     </div>
   );
 }
